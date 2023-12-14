@@ -1,5 +1,5 @@
 # Angular project 
-T I created for admin with roles **'ADMIN'** and **'USER'**
+
 
 ![Admin JWT](captures/admin-json.jpg)
 
